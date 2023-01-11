@@ -30,7 +30,7 @@
     "@nestjs/swagger": "^4.5.4",
     "@nestjs/typeorm": "^7.0.0",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.12.2",
+    "class-validator": "^0.14.0",
     "fastify-swagger": "^2.5.1",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
